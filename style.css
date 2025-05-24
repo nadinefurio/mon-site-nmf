@@ -27,11 +27,15 @@ h2 {
 h3 {
     color: #040404;
 }
+h4 {
+    color: #ffffff;
+    font-size: 1em;
+}
 p {
     font-size: 1em;
     margin: 0.5em 0;
     line-height: 1.6;
-    color: rgba(37, 34, 34, 0.52);
+    color: #555;
 }
 table {
     width: 100%;
