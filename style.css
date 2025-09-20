@@ -18,6 +18,11 @@ header {
     overflow: hidden;
     padding: 20px;
 }
+.container p,
+.container ul,
+.container li {
+    text-align: justify;
+}
 h1 {
     color: #ffffff;
     margin: 0;
